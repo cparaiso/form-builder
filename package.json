@@ -23,19 +23,19 @@
     "@christianmurphy/reactive-elements": "^1.0.3",
     "@fortawesome/react-fontawesome": "^0.1.2",
     "@uportal/open-id-connect": "^1.8.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.0.0",
     "lodash.get": "^4.4.2",
     "prop-types": "^15.6.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-jsonschema-form": "1.2.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-jsonschema-form": "1.8.1",
     "regenerator-runtime": "^0.13.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.0",
     "@fortawesome/free-solid-svg-icons": "^5.1.0",
-    "react-scripts": "2.1.5",
-    "rewire": "^4.0.1"
+    "react-scripts": "4.0.3",
+    "rewire": "^5.0.0"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
